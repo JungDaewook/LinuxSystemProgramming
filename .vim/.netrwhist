@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/lsp60/assignment3'
+let g:netrw_dirhist_2='/home/lsp60/practiceMidterm'
+let g:netrw_dirhist_3='/home/lsp60/assignment4'
+let g:netrw_dirhist_4='/home/lsp60/assignment6'
+let g:netrw_dirhist_5='/home/lsp60/assignment5'
+let g:netrw_dirhist_6='/home/lsp60/assignment8'

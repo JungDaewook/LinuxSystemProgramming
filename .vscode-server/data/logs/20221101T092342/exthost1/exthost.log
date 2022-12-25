@@ -1,0 +1,12 @@
+[2022-11-01 09:23:44.591] [exthost] [info] Extension host with pid 1582 started
+[2022-11-01 09:23:44.668] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-11-01 09:23:44.685] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.github
+[2022-11-01 09:23:44.703] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-11-01 09:23:44.767] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-11-01 09:23:44.995] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-11-01 09:23:45.186] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-01 09:23:45.232] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-11-01 09:23:45.250] [exthost] [info] Eager extensions activated
+[2022-11-01 09:44:42.732] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:c'
+[2022-11-01 10:17:18.321] [exthost] [info] extension host terminating: received terminate message from renderer
+[2022-11-01 10:17:18.367] [exthost] [info] Extension host with pid 1582 exiting with code 0

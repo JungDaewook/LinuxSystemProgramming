@@ -1,0 +1,61 @@
+[2022-11-01 09:23:42.815] [remoteagent] [info] Extension host agent started.
+[2022-11-01 09:23:43.216] [remoteagent] [info] [127.0.0.1][906e6bfe][ManagementConnection] New connection established.
+[2022-11-01 09:23:43.220] [remoteagent] [info] [127.0.0.1][5e90c269][ExtensionHostConnection] New connection established.
+[2022-11-01 09:23:43.229] [remoteagent] [info] [127.0.0.1][5e90c269][ExtensionHostConnection] <1582> Launched Extension Host Process.
+[2022-11-01 09:44:23.669] [remoteagent] [info] Getting Manifest... ms-vscode.cpptools-extension-pack
+[2022-11-01 09:44:23.855] [remoteagent] [info] Installing extension: ms-vscode.cpptools-extension-pack
+[2022-11-01 09:44:25.676] [remoteagent] [info] Getting Manifest... ms-vscode.cpptools
+[2022-11-01 09:44:25.890] [remoteagent] [info] Getting Manifest... ms-vscode.cmake-tools
+[2022-11-01 09:44:26.295] [remoteagent] [info] Getting Manifest... twxs.cmake
+[2022-11-01 09:44:26.832] [remoteagent] [info] Getting Manifest... ms-vscode.cpptools-themes
+[2022-11-01 09:44:27.047] [remoteagent] [info] Installing extension: ms-vscode.cpptools
+[2022-11-01 09:44:27.047] [remoteagent] [info] Installing extension: ms-vscode.cmake-tools
+[2022-11-01 09:44:27.048] [remoteagent] [info] Installing extension: twxs.cmake
+[2022-11-01 09:44:27.048] [remoteagent] [info] Installing extension: ms-vscode.cpptools-themes
+[2022-11-01 09:44:27.880] [remoteagent] [info] Downloaded extension: ms-vscode.cpptools-themes /home/lsp60/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cpptools-themes-2.0.0
+[2022-11-01 09:44:27.958] [remoteagent] [info] Extracted extension to /home/lsp60/.vscode-server/extensions/.8f3675ce-7e8b-47a8-86d6-846ab054a622: ms-vscode.cpptools-themes
+[2022-11-01 09:44:27.995] [remoteagent] [info] Renamed to /home/lsp60/.vscode-server/extensions/ms-vscode.cpptools-themes-2.0.0
+[2022-11-01 09:44:28.001] [remoteagent] [info] Extracting completed. ms-vscode.cpptools-themes
+[2022-11-01 09:44:28.080] [remoteagent] [info] Downloaded extension: ms-vscode.cmake-tools /home/lsp60/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cmake-tools-1.12.27
+[2022-11-01 09:44:28.535] [remoteagent] [info] Extracted extension to /home/lsp60/.vscode-server/extensions/.7e8aef70-c5cd-4853-9419-f3e500d3b8e1: ms-vscode.cmake-tools
+[2022-11-01 09:44:28.599] [remoteagent] [info] Renamed to /home/lsp60/.vscode-server/extensions/ms-vscode.cmake-tools-1.12.27
+[2022-11-01 09:44:28.605] [remoteagent] [info] Extracting completed. ms-vscode.cmake-tools
+[2022-11-01 09:44:35.945] [remoteagent] [info] Downloaded extension: ms-vscode.cpptools /home/lsp60/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cpptools-1.11.5-linux-x64
+[2022-11-01 09:44:36.146] [remoteagent] [info] Downloaded extension: twxs.cmake /home/lsp60/.vscode-server/data/CachedExtensionVSIXs/twxs.cmake-0.0.17
+[2022-11-01 09:44:36.681] [remoteagent] [info] Extracted extension to /home/lsp60/.vscode-server/extensions/.18737ab5-124a-4d8f-82b1-10577021f0ed: twxs.cmake
+[2022-11-01 09:44:36.730] [remoteagent] [info] Renamed to /home/lsp60/.vscode-server/extensions/twxs.cmake-0.0.17
+[2022-11-01 09:44:36.737] [remoteagent] [info] Extracting completed. twxs.cmake
+[2022-11-01 09:44:41.365] [remoteagent] [info] Extracted extension to /home/lsp60/.vscode-server/extensions/.4ad4afec-dbcc-49b0-bae6-66294c843f67: ms-vscode.cpptools
+[2022-11-01 09:44:41.434] [remoteagent] [info] Renamed to /home/lsp60/.vscode-server/extensions/ms-vscode.cpptools-1.11.5
+[2022-11-01 09:44:41.444] [remoteagent] [info] Extracting completed. ms-vscode.cpptools
+[2022-11-01 09:44:42.114] [remoteagent] [info] Downloaded extension: ms-vscode.cpptools-extension-pack /home/lsp60/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cpptools-extension-pack-1.3.0
+[2022-11-01 09:44:42.137] [remoteagent] [info] Extracted extension to /home/lsp60/.vscode-server/extensions/.397bc151-2096-45dc-90e2-e5199817810a: ms-vscode.cpptools-extension-pack
+[2022-11-01 09:44:42.177] [remoteagent] [info] Renamed to /home/lsp60/.vscode-server/extensions/ms-vscode.cpptools-extension-pack-1.3.0
+[2022-11-01 09:44:42.179] [remoteagent] [info] Extracting completed. ms-vscode.cpptools-extension-pack
+[2022-11-01 09:44:42.179] [remoteagent] [info] Extension installed successfully: ms-vscode.cpptools-themes
+[2022-11-01 09:44:42.179] [remoteagent] [info] Extension installed successfully: ms-vscode.cmake-tools
+[2022-11-01 09:44:42.179] [remoteagent] [info] Extension installed successfully: twxs.cmake
+[2022-11-01 09:44:42.179] [remoteagent] [info] Extension installed successfully: ms-vscode.cpptools
+[2022-11-01 09:44:42.180] [remoteagent] [info] Extension installed successfully: ms-vscode.cpptools-extension-pack
+[2022-11-01 10:17:18.322] [remoteagent] [info] [127.0.0.1][906e6bfe][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-11-01 10:17:18.384] [remoteagent] [info] [127.0.0.1][5e90c269][ExtensionHostConnection] <1582> Extension Host Process exited with code: 0, signal: null.
+[2022-11-01 10:17:18.384] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-11-01 10:17:24.542] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-11-01 10:17:24.542] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-11-01 10:17:24.684] [remoteagent] [info] [127.0.0.1][51319f36][ExtensionHostConnection] New connection established.
+[2022-11-01 10:17:24.685] [remoteagent] [info] [127.0.0.1][7eaa703b][ManagementConnection] New connection established.
+[2022-11-01 10:17:24.697] [remoteagent] [info] [127.0.0.1][51319f36][ExtensionHostConnection] <7982> Launched Extension Host Process.
+[2022-11-01 10:22:24.545] [remoteagent] [info] New EH opened, aborting shutdown
+[2022-11-01 13:03:14.206] [remoteagent] [info] [127.0.0.1][7eaa703b][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-11-01 13:03:14.337] [remoteagent] [info] [127.0.0.1][51319f36][ExtensionHostConnection] <7982> Extension Host Process exited with code: 0, signal: null.
+[2022-11-01 13:03:14.337] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-11-01 13:05:52.161] [remoteagent] [info] Got delay-shutdown request while in shutdown timeout, delaying
+[2022-11-01 13:05:52.161] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-11-01 13:05:52.227] [remoteagent] [info] [127.0.0.1][792f1e49][ManagementConnection] New connection established.
+[2022-11-01 13:05:52.310] [remoteagent] [info] [127.0.0.1][7c4e6cac][ExtensionHostConnection] New connection established.
+[2022-11-01 13:05:52.324] [remoteagent] [info] [127.0.0.1][7c4e6cac][ExtensionHostConnection] <4048> Launched Extension Host Process.
+[2022-11-01 13:06:05.428] [remoteagent] [info] [127.0.0.1][792f1e49][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-11-01 13:06:05.453] [remoteagent] [info] [127.0.0.1][7c4e6cac][ExtensionHostConnection] <4048> Extension Host Process exited with code: 0, signal: null.
+[2022-11-01 13:06:05.453] [remoteagent] [info] Cancelling previous shutdown timeout
+[2022-11-01 13:06:05.454] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-11-01 13:11:05.455] [remoteagent] [info] Last EH closed, shutting down
